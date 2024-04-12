@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErwanPishi
-- 👀 I’m interested in 信贷大数据风控
+- 👀 I’m interested in consumer finance risk management with big data skills
 - 🌱 I’m currently learning neuralnetworks such as LSTM/RNN/GRU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
